@@ -1,4 +1,4 @@
-print("NAME:Aliu Tunde Uthman")
+print("NAME:Isah Baro")
 print("DEPARTMENT: Computer Science")
 scare = "Boo!"
 print (scare)
